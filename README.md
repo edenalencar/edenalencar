@@ -4,7 +4,7 @@
 
 A Software Engineer specializing in Java technologies. Professional experience with the technologies listed in the toolbox below.
 
-I create tech content, mostly about Web Development and Java, but I also talk about other topics than coding. 
+In addition to java, I write and contribute to open source software written in GTK / Vala. 
 
 --- 
 
@@ -16,10 +16,16 @@ I create tech content, mostly about Web Development and Java, but I also talk ab
 
 ### 📈 My GitHub stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edenalencar)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edenalencar&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edenalencar&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### My Social Media
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fedenalencar)
+
+
+
+
