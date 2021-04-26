@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Éden Alencar!
+---
+A Software Engineer specializing in Java technologies. Professional experience with the technologies listed in the toolbox below.
+
+I create tech content, mostly about Web Development and Java, but I also talk about other topics than coding. 
+
 
 <!--
 **edenalencar/edenalencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
