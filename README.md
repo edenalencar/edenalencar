@@ -1,9 +1,11 @@
-### Hi there 👋 I'm Éden Alencar!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Éden Alencar!
 ---
 A Software Engineer specializing in Java technologies. Professional experience with the technologies listed in the toolbox below.
 
 I create tech content, mostly about Web Development and Java, but I also talk about other topics than coding. 
 
+--- 
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fedenalencar)
 
 <!--
 **edenalencar/edenalencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
