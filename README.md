@@ -24,4 +24,4 @@ In addition to java, I write and contribute to open source software written in G
 
 ### My Social Media
 
-![Twitter Follow](https://img.shields.io/twitter/follow/edenalencar?label=Talk%20to%20me&style=social) * ![GitHub followers](https://img.shields.io/github/followers/edenalencar?style=social)
+![GitHub followers](https://img.shields.io/github/followers/edenalencar?style=social)
