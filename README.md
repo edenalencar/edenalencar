@@ -32,14 +32,34 @@ Here are some of my key projects:
 
 ---
 
-### 📈 My GitHub stats
+### 📈 My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edenalencar&show_icons=true)
+<div align="center">
+  <a href="https://github.com/edenalencar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edenalencar&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenalencar&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edenalencar&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edenalencar&theme=transparent&hide_border=true" alt="edenalencar's streak" />
+</p>
 
 ---
 
-### My Social Media
+### 📱 Connect With Me
 
-![GitHub followers](https://img.shields.io/github/followers/edenalencar?style=social)
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/edenalencar?style=social)](https://github.com/edenalencar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/éden-alencar/)
+  
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=edenalencar&theme=flat&no-frame=true&margin-w=4)
+  
+</div>
